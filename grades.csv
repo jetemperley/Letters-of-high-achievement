@@ -1,0 +1,20 @@
+﻿Unit,Unit title,Mark,Grade
+COMP2000,Object-Oriented Programming Practices,96,High Distinction
+COMP2050,Software Engineering,85,High Distinction
+COMP2100,Systems Programming,95,High Distinction
+COMP2160,Game Development,88,High Distinction
+COMP2010,Algorithms and Data Structures,94,High Distinction
+COMP2150,Game Design,85,High Distinction
+COMP2250,Data Communications,89,High Distinction
+MMCC2140,Cybercultures,82,Distinction
+COMP1150,Introduction to Video Games,83,Distinction
+COMP1350,Database Design and Management,89,High Distinction
+MATH1007,Discrete Mathamatics,87,High Distinction
+COMP1010,Fundementals of Computer Science,94,High Distinction
+COMP1300,Introduction to Cyber Security,88,High Distinction
+COMP1800,IT and Society,83,Distinction
+COMP3100,Distributed Systems,82,Distinction
+COMP3130,Mobile Application Development,83,Distinction
+COMP3150,Games Project A,85,High Distinction
+COMP3170,Computer Graphics,95,High Distinction
+,,mean = 87.9,
